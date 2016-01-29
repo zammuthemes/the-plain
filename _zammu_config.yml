@@ -1,0 +1,7 @@
+---
+name: heiswayi:the-plain
+generator: jekyll
+
+# add-theme https://github.com/zammuthemes/the-plain
+# should copy the name, ask for generator
+# copy files for generator, e.g. jekyll copies Gemfile
