@@ -1,6 +1,13 @@
 ---
-name: heiswayi:the-plain
+name: The Plain
 generator: jekyll
+
+thumbnail: http://heiswayi.github.io/images/20150910/the-plain.png
+
+author_name: Heiswayi Nrird
+author_site: http://heiswayi.github.io/
+
+tags:
 
 # add-theme https://github.com/zammuthemes/the-plain
 # should copy the name, ask for generator
