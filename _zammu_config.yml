@@ -2,10 +2,11 @@
 name: The Plain
 generator: jekyll
 
+license: MIT
 thumbnail: http://heiswayi.github.io/images/20150910/the-plain.png
 
 author_name: Heiswayi Nrird
-author_site: http://heiswayi.github.io/
+author_url: http://heiswayi.github.io/
 
 tags:
 
